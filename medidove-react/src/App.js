@@ -37,9 +37,7 @@ import WishList from './pages/wishList/WishList';
 
 import './App.css';
 import NotFound from './pages/NotFound/NotFound';
-// import Tutorials from './pages/Yoga/pages/Tutorials/Tutorials';
-// import Yoga1 from './pages/Yoga/Yoga1';
-// import Yoga from './pages/Yoga/pages/Yoga/Yoga';
+
 
 
 function App() {
